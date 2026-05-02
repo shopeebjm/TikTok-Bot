@@ -33,7 +33,8 @@ Unduh Aplikasi Termux Nya Dibawah Ini
   
 *Otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan, dan lainnya.*
 
-    <a href="https://github.com/TawsifXD/Tiktok_Bot/issues">Report Bugs</a>
+<a
+href="https://github.com/TawsifXD/Tiktok_Bot/issues">Report Bugs</a>
 
 ### Fitur
 * Ikuti Bot
