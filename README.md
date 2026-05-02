@@ -25,9 +25,8 @@ Unduh Aplikasi Termux Nya Dibawah Ini
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">TikTok Automator Bot</h3>
-
-<h2 align="left">
+<h2 align="center">
+TikTok Automator Bot
   
 *Otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan, dan lainnya.*
 
