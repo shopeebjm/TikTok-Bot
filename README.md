@@ -21,7 +21,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 ______________________________
 
-<h2 align="center">
+<div align="center">
 <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
