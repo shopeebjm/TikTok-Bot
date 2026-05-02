@@ -25,7 +25,7 @@ ______________________________
 <a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">
     <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
   </a>
-_____________________________________
+________________________________
 
 otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan, dan lainnya.
 
