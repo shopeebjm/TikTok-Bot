@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">
+    <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
+  </a>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=TikTok+@shopee.bjm" />
 </p>
@@ -20,11 +25,6 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
 
 ______________________________
-
-<div align="center">
-<a href="https://github.com/flowsidee/Zefoy_TIKTOK_BOT">
-    <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
-  </a>
 
 otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan, dan lainnya.
 
