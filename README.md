@@ -35,9 +35,6 @@ Otomatisasi TikTok menggunakan zefoy.com untuk pengikut, tampilan, suka, bagikan
     <br />
     <br />
     <a href="https://github.com/TawsifXD/Tiktok_Bot/issues">Report Bugs</a>
-    
-  </p>
-</div>
   
 ---------------------------------------
 
